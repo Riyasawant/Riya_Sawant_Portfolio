@@ -14,3 +14,15 @@
 **Project Manager Intern @ GlobalShala (_Oct 2021 - March 2022_)**
 - Prepared project plan using software development life cycle, defined project scope,identified business functional and non-functional requirements, moniotred project progress, resource optimization etc.
 - Leveraged JIRA as a project management tool for effective issue tracking, task assignment, and progress monitoring, ensuring streamlined workflow management and coordination among technical team members leading to 25% reduction in project timeline.
+
+## Project
+### Airline Customer Data Analysis using SQL
+Performed data cleaning, handling inconsistency and outliers then building ETL pipeline using Alteryx for 10000+ data points coming from multiple sources like feedback form, reviews etc.
+
+### E-Commerce Fraud Detection using Python
+Built machine learning model through SMOTE resampling technqiues and using cross validation technqiue to tune hyperparameters reducing feature space complexity by 20% through PCA
+
+### Psychological Analysis using Social Media Data
+Applied NLP techniques, including word tokenization, topic modeling, word embeddings and TF-IDF vectorization, to preprocess Twitter dataset by removing stop word, stemming, and lemmatization, achieving an accuracy of 86% in predicting stress levels.
+
+
