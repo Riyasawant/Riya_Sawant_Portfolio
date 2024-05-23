@@ -23,6 +23,9 @@ Performed data cleaning, handling inconsistency and outliers then building ETL p
 Built machine learning model through SMOTE resampling technqiues and using cross validation technqiue to tune hyperparameters reducing feature space complexity by 20% through PCA
 
 ### Psychological Analysis using Social Media Data
+[Publication](https://www.ijraset.com/research-paper/psychological-analysis-using-social-media-data)
 Applied NLP techniques, including word tokenization, topic modeling, word embeddings and TF-IDF vectorization, to preprocess Twitter dataset by removing stop word, stemming, and lemmatization, achieving an accuracy of 86% in predicting stress levels.
 
-
+### Strategic Valuation for Steel Manufacturer
+Developed detailed financial models generating 10% more accurate result using Microsoft Excel to forecast cash flows, incorporating assumptions on industry trends, macroeconomic factors, and competitive dynamics and analyzed historical M&A transactions to assess valuation relative to past acquisition deals.
+Applied valuation techniques (DCF and CCA) on financial data from company reports, industry publications, & market databases analyzing key financial metrics revenue growth, EBITDA margins, and free cash flow generation. estimating present value of the cash flows, discount rates and terminal value assumptions
