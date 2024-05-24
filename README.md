@@ -1,7 +1,8 @@
 # Data Analyst
+I am driven by a deep passion for uncovering insights from complex data sets to inform strategic decision-making. My enthusiasm for data empowers me to identify trends, solve problems, and communicate findings effectively to stakeholders. I thrive on transforming raw data into actionable insights that drive business success.
 
-#### Technical Skills: Python, SQL, Tableau, Databricks, Power BI, Snowflake, Microsoft Excel, Microsoft Access, Alteryx
-#### Certification: Microsoft Excel, Salesforce Tableau, Amazon Cloud Practitioner, Databricks Data Engineer Associate, Snowflake Hands-on Essential, Java Developer
+#### Technical Skills: Python, SQL, TSQL, Tableau, Databricks, Power BI, Snowflake, Microsoft Excel, Apache Spark, Hadoop, Microsoft Access, Alteryx, PySpark, Redshift, Scala, Google Analytics,
+#### Certification: Microsoft Office Specialist - Excel Associate (Office 2019), Salesforce Tableau, Amazon Cloud Practitioner, Databricks Data Engineer Associate, Snowflake Hands-on Essential, Microsoft Java Developer
 
 ## Education
 - Master of Science, Information System | Syracuse University (_May 2024_)								       		
@@ -29,4 +30,16 @@ Applied NLP techniques, including word tokenization, topic modeling, word embedd
 
 ### Strategic Valuation for Steel Manufacturer
 Developed detailed financial models generating 10% more accurate result using Microsoft Excel to forecast cash flows, incorporating assumptions on industry trends, macroeconomic factors, and competitive dynamics and analyzed historical M&A transactions to assess valuation relative to past acquisition deals.
-Applied valuation techniques (DCF and CCA) on financial data from company reports, industry publications, & market databases analyzing key financial metrics revenue growth, EBITDA margins, and free cash flow generation. estimating present value of the cash flows, discount rates and terminal value assumptions
+Applied valuation techniques (DCF and CCA) on financial data from company reports, industry publications, & market databases analyzing key financial metrics revenue growth, EBITDA margins, and free cash flow generation. estimating present value of the cash flows, discount rates and terminal value assumptions.
+
+### Ransomeware Detection using Pyspark
+Implemented robust machine learning models including Random Forest Classifier, SVM Classifier, and Logistic Regression  using SciKit-Learn to detect ransomware, achieving an average precision of 94%, recall of 89%, and F1 score of 91%
+Identified anomalies and patterns leveraging the models using seaborn and matplotlib, resulting in a 10% improvement in 
+overall accuracy and an 8% reduction in false positives
+
+### Analyzing healthcare cost using HMO Data
+Design a healthcare cost prediction system using R for performing data analysis for understanding data depth, data cleaning to deal with missing values, feature engineering to obtain relevant features and built ML model- SVM, decision tree, Random Forest, KNN on the HMO data.
+
+## Publications
+1. Psychological Analysis Using Social Media Data, International Journal for Research in Applied Science & Engineering Technology
+(IJRASET).
