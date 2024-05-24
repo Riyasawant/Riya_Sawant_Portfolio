@@ -1,6 +1,7 @@
 # Data Analyst
 
 #### Technical Skills: Python, SQL, Tableau, Databricks, Power BI, Snowflake, Microsoft Excel, Microsoft Access, Alteryx
+#### Certification: Microsoft Excel, Salesforce Tableau, Amazon Cloud Practitioner, Databricks Data Engineer Associate, Snowflake Hands-on Essential, Java Developer
 
 ## Education
 - Master of Science, Information System | Syracuse University (_May 2024_)								       		
