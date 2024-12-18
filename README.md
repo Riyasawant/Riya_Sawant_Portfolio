@@ -23,7 +23,7 @@ I am driven by a deep passion for uncovering insights from complex data sets to 
 - Bachelor of Engineering, Information Technology	| University of Mumbai (_June 2022_)
           		
 ## Work Experience
-**Data Analyst @ iConsult Collaborative(_Feburary 2024 - Present_)**
+**Data Analyst @ iConsult Collaborative(_August 2023 - Present_)**
 - Leveraged CRM (Salesforce) data to evaluate financial and resource allocation, identifying patterns that led to a 15% reduction in operational costs and
 improved profitability through cost optimization strategies.
 - Integrated and ensured data quality across datasets from 3+ disparate sources using SQL, Python, and Snowflake, reducing data errors by 10% through
@@ -33,7 +33,7 @@ preparation, reducing manual intervention by 10%, and enhancing reporting accura
 - Designed interactive Power BI dashboards using DAX and Power Query, tracking KPIs such as revenue and cost metrics, identifying inefficiencies, and
 reducing reporting time by 25%, enabling data-driven decision-making
   
-**Project Manager Intern @ GlobalShala (_Oct 2021 - March 2022_)**
+**Project Manager Intern @ GlobalShala (_Oct 2021 - June 2022_)**
 - Collaborated with a market research team of 6 people to deliver a complex technical project within budget, leading to an 80%+ completion rate.
 - Developed a project plan in Microsoft Project, applied the SDLC lifecycle, optimized resource allocation, established clear task dependencies, defined project
 milestones, and facilitated team alignment & transparent communication, leading to a 15% increase in project efficiency.
