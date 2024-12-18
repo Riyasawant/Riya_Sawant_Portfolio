@@ -34,7 +34,7 @@ preparation, reducing manual intervention by 10%, and enhancing reporting accura
 reducing reporting time by 25%, enabling data-driven decision-making
   
 **Project Manager Intern @ GlobalShala (_Oct 2021 - March 2022_)**
-- Collaborated with a market research team of 6 people to deliver a complex technical project within budget, leading to an 80%+ completion rate.•
+- Collaborated with a market research team of 6 people to deliver a complex technical project within budget, leading to an 80%+ completion rate.
 - Developed a project plan in Microsoft Project, applied the SDLC lifecycle, optimized resource allocation, established clear task dependencies, defined project
 milestones, and facilitated team alignment & transparent communication, leading to a 15% increase in project efficiency.
 - Prepared project timelines using Microsoft Project, utilized JIRA for task management and progress updates, and documented workflows in Confluence,
@@ -85,6 +85,8 @@ Developed a predictive model for donor churn using Random Forest, XGBoost, and L
 Analyzed 10,000+ rows of customer and transaction data across two datasets, achieving a 20% improvement in data accuracy through thorough cleaning and transformation using SQL, Power Query, and DAX.
 Developed two Power BI dashboards with 15+ visualizations and 5 KPIs, enabling stakeholders to track revenue and identify trends in customer behavior, card usage, and geographic performance.
 Optimized data modeling processes, reducing query processing time and providing actionable insights highlighting high-performing customer segments, leading to improved data-driven decision efficiency for target audience strategies.
+
+[Code](https://github.com/Riyasawant/credit-card-and-transaction-report)
 
 ## Publications
 1. Psychological Analysis Using Social Media Data, International Journal for Research in Applied Science & Engineering Technology
