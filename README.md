@@ -67,20 +67,18 @@ overall accuracy and an 8% reduction in false positives
 
 [Code](https://colab.research.google.com/drive/1sXe10isnuvou8LrpqxXG7h3lM0XuPTpn?usp=sharing#scrollTo=_3kukdrSqdv6 )
 
-### Analyzing healthcare cost using HMO Data
+### Analyzing healthcare cost using HMO Data in R language
 Design a healthcare cost prediction system using R for performing data analysis for understanding data depth, data cleaning to deal with missing values, feature engineering to obtain relevant features and built ML model- SVM, decision tree, Random Forest, KNN on the HMO data.
 
-### Dome Shift Scheduling using Azure and Power Apps
+### Dome Shift Scheduling using Azure SQL and Power Apps
 Designed and implemented a centralized Azure SQL Database to store and manage shift scheduling data, enabling real-time updates, reducing scheduling conflicts by 25%, and ensuring data consistency across teams.
 Developed a user-friendly Power Apps interface, allowing team members to easily view, update, and manage schedules, automating manual processes and reducing intervention time , enhancing user accessibility and productivity.
 Integrated the solution with Power BI dashboards, visualizing key metrics such as resource utilization, shift adherence, and scheduling efficiency, empowering management with data-driven decision-making to improve operational performance.
 
-### Customer Retention using Machine Learning
-Developed a predictive model for donor churn using machine learning techniques (Random Forest, XGBoost, Logistic Regression), achieving 92% accuracy by addressing class imbalance with SMOTE and optimizing features with PCA.
-Performed comprehensive data preprocessing for 10,000+ donor records, including cleaning, handling outliers, imputing missing values, and encoding categorical variables using Python to improve data quality and reliability.
-Conducted exploratory data analysis (EDA) using Matplotlib and seaborn, identifying patterns in donation frequency, amount, and engagement metrics, driving targeted donor retention strategies.
+### Customer Retention using Machine Learning in Python
+Developed a predictive model for donor churn using Random Forest, XGBoost, and Logistic Regression, achieving 92% accuracy with SMOTE and PCA. Preprocessed 10,000+ records and conducted EDA to identify donation patterns. Created an interactive Tableau dashboard to visualize churn rates, retention trends, and engagement metrics for actionable insights.
 
-### Credit Card Transaction Analysis and Customer Insights Dashboard
+### Credit Card Transaction Analysis and Customer Insights Dashboard using Power BI
 Analyzed 10,000+ rows of customer and transaction data across two datasets, achieving a 20% improvement in data accuracy through thorough cleaning and transformation using SQL, Power Query, and DAX.
 Developed two Power BI dashboards with 15+ visualizations and 5 KPIs, enabling stakeholders to track revenue and identify trends in customer behavior, card usage, and geographic performance.
 Optimized data modeling processes, reducing query processing time and providing actionable insights highlighting high-performing customer segments, leading to improved data-driven decision efficiency for target audience strategies.
