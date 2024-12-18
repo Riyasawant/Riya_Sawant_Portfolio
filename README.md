@@ -10,12 +10,21 @@ I am driven by a deep passion for uncovering insights from complex data sets to 
           		
 ## Work Experience
 **Data Analyst @ iConsult Collaborative(_Feburary 2024 - Present_)**
-- Conducted SQL database management, data analysis, data cleaning query optimization using Microsoft SQL Server  to ensure data integrity and accuracy, improving overall database efficiency and reliability.
-- Performed erforming data analysis and reporting to identify optimal market segments using Microsoft Excel.
+- Leveraged CRM (Salesforce) data to evaluate financial and resource allocation, identifying patterns that led to a 15% reduction in operational costs and
+improved profitability through cost optimization strategies.
+- Integrated and ensured data quality across datasets from 3+ disparate sources using SQL, Python, and Snowflake, reducing data errors by 10% through
+comprehensive analysis, cleansing, and transformation.
+- Partnered with data engineers to develop automated ETL workflows in Alteryx Designer and integrated data into Snowflake, streamlining real-time data
+preparation, reducing manual intervention by 10%, and enhancing reporting accuracy.
+- Designed interactive Power BI dashboards using DAX and Power Query, tracking KPIs such as revenue and cost metrics, identifying inefficiencies, and
+reducing reporting time by 25%, enabling data-driven decision-making
   
 **Project Manager Intern @ GlobalShala (_Oct 2021 - March 2022_)**
-- Prepared project plan using software development life cycle, defined project scope,identified business functional and non-functional requirements, moniotred project progress, resource optimization etc.
-- Leveraged JIRA as a project management tool for effective issue tracking, task assignment, and progress monitoring, ensuring streamlined workflow management and coordination among technical team members leading to 25% reduction in project timeline.
+- Collaborated with a market research team of 6 people to deliver a complex technical project within budget, leading to an 80%+ completion rate.•
+- Developed a project plan in Microsoft Project, applied the SDLC lifecycle, optimized resource allocation, established clear task dependencies, defined project
+milestones, and facilitated team alignment & transparent communication, leading to a 15% increase in project efficiency.
+- Prepared project timelines using Microsoft Project, utilized JIRA for task management and progress updates, and documented workflows in Confluence,
+ensuring streamlined processes and a 25% reduction in project timelines.
 
 ## Project
 ### Airline Customer Data Analysis using SQL
@@ -46,6 +55,21 @@ overall accuracy and an 8% reduction in false positives
 
 ### Analyzing healthcare cost using HMO Data
 Design a healthcare cost prediction system using R for performing data analysis for understanding data depth, data cleaning to deal with missing values, feature engineering to obtain relevant features and built ML model- SVM, decision tree, Random Forest, KNN on the HMO data.
+
+### Dome Shift Scheduling using Azure and Power Apps
+Designed and implemented a centralized Azure SQL Database to store and manage shift scheduling data, enabling real-time updates, reducing scheduling conflicts by 25%, and ensuring data consistency across teams.
+Developed a user-friendly Power Apps interface, allowing team members to easily view, update, and manage schedules, automating manual processes and reducing intervention time , enhancing user accessibility and productivity.
+Integrated the solution with Power BI dashboards, visualizing key metrics such as resource utilization, shift adherence, and scheduling efficiency, empowering management with data-driven decision-making to improve operational performance.
+
+### Customer Retention using Machine Learning
+Developed a predictive model for donor churn using machine learning techniques (Random Forest, XGBoost, Logistic Regression), achieving 92% accuracy by addressing class imbalance with SMOTE and optimizing features with PCA.
+Performed comprehensive data preprocessing for 10,000+ donor records, including cleaning, handling outliers, imputing missing values, and encoding categorical variables using Python to improve data quality and reliability.
+Conducted exploratory data analysis (EDA) using Matplotlib and seaborn, identifying patterns in donation frequency, amount, and engagement metrics, driving targeted donor retention strategies.
+
+### Credit Card Transaction Analysis and Customer Insights Dashboard
+Analyzed 10,000+ rows of customer and transaction data across two datasets, achieving a 20% improvement in data accuracy through thorough cleaning and transformation using SQL, Power Query, and DAX.
+Developed two Power BI dashboards with 15+ visualizations and 5 KPIs, enabling stakeholders to track revenue and identify trends in customer behavior, card usage, and geographic performance.
+Optimized data modeling processes, reducing query processing time and providing actionable insights highlighting high-performing customer segments, leading to improved data-driven decision efficiency for target audience strategies.
 
 ## Publications
 1. Psychological Analysis Using Social Media Data, International Journal for Research in Applied Science & Engineering Technology
