@@ -41,47 +41,47 @@ milestones, and facilitated team alignment & transparent communication, leading 
 ensuring streamlined processes and a 25% reduction in project timelines.
 
 ## Project
-### Airline Customer Data Analysis using SQL
+### Airline Customer Data Analysis (SQL)
 Performed data cleaning, handling inconsistency and outliers then building ETL pipeline using Alteryx for 10000+ data points coming from multiple sources like feedback form, reviews etc.
 
 [Code](https://github.com/Riyasawant/airline-data-analysis)
-### E-Commerce Fraud Detection using Python
+### E-Commerce Fraud Detection (Python, Machine Learning)
 Built machine learning model through SMOTE resampling technqiues and using cross validation technqiue to tune hyperparameters reducing feature space complexity by 20% through PCA
 
 [Code](https://github.com/Riyasawant/E-commerce-Fraud-Detection)
-### Psychological Analysis using Social Media Data
+### Psychological Analysis using Social Media Data(Machine Learning, Python, Natural Language Processing)
 [Publication](https://www.ijraset.com/research-paper/psychological-analysis-using-social-media-data)
 
 Applied NLP techniques, including word tokenization, topic modeling, word embeddings and TF-IDF vectorization, to preprocess Twitter dataset by removing stop word, stemming, and lemmatization, achieving an accuracy of 86% in predicting stress levels.
 
 
-### Strategic Valuation for Steel Manufacturer
+### Strategic Valuation for Steel Manufacturer(Financial Modeling, Microsoft Excel, DCF and CCA valuation)
 Developed detailed financial models generating 10% more accurate result using Microsoft Excel to forecast cash flows, incorporating assumptions on industry trends, macroeconomic factors, and competitive dynamics and analyzed historical M&A transactions to assess valuation relative to past acquisition deals.
 Applied valuation techniques (DCF and CCA) on financial data from company reports, industry publications, & market databases analyzing key financial metrics revenue growth, EBITDA margins, and free cash flow generation. estimating present value of the cash flows, discount rates and terminal value assumptions.
 
 [Code](https://github.com/Riyasawant/Financial-Modeling)
-### Ransomeware Detection using Pyspark
+### Ransomeware Detection (Pyspark, Machine Learning)
 Implemented robust machine learning models including Random Forest Classifier, SVM Classifier, and Logistic Regression  using SciKit-Learn to detect ransomware, achieving an average precision of 94%, recall of 89%, and F1 score of 91%
 Identified anomalies and patterns leveraging the models using seaborn and matplotlib, resulting in a 10% improvement in 
 overall accuracy and an 8% reduction in false positives
 
 [Code](https://colab.research.google.com/drive/1sXe10isnuvou8LrpqxXG7h3lM0XuPTpn?usp=sharing#scrollTo=_3kukdrSqdv6 )
 
-### Analyzing healthcare cost using HMO Data in R language
+### Analyzing healthcare cost using HMO Data in (R language, Machine Learning)
 Design a healthcare cost prediction system using R for performing data analysis for understanding data depth, data cleaning to deal with missing values, feature engineering to obtain relevant features and built ML model- SVM, decision tree, Random Forest, KNN on the HMO data.
 
-### Dome Shift Scheduling using Azure SQL and Power Apps
+### Dome Shift Scheduling (Azure SQL, Power Apps and Power BI)
 Designed and implemented a centralized Azure SQL Database to store and manage shift scheduling data, enabling real-time updates, reducing scheduling conflicts by 25%, and ensuring data consistency across teams.
 Developed a user-friendly Power Apps interface, allowing team members to easily view, update, and manage schedules, automating manual processes and reducing intervention time , enhancing user accessibility and productivity.
 Integrated the solution with Power BI dashboards, visualizing key metrics such as resource utilization, shift adherence, and scheduling efficiency, empowering management with data-driven decision-making to improve operational performance.
 
-### Customer Retention using Machine Learning in Python
+### Customer Retention (Machine Learning, Tableau and Python)
 Developed a predictive model for donor churn using Random Forest, XGBoost, and Logistic Regression, achieving 92% accuracy with SMOTE and PCA. Preprocessed 10,000+ records and conducted EDA to identify donation patterns. Created an interactive Tableau dashboard to visualize churn rates, retention trends, and engagement metrics for actionable insights.
 
 
 [Code](https://github.com/Riyasawant/Customer-Retention)
 
-### Credit Card Transaction Analysis and Customer Insights Dashboard using Power BI
+### Credit Card Transaction Analysis and Customer Insights Dashboard (SQL and Power BI)
 Analyzed 10,000+ rows of customer and transaction data across two datasets, achieving a 20% improvement in data accuracy through thorough cleaning and transformation using SQL, Power Query, and DAX.
 Developed two Power BI dashboards with 15+ visualizations and 5 KPIs, enabling stakeholders to track revenue and identify trends in customer behavior, card usage, and geographic performance.
 Optimized data modeling processes, reducing query processing time and providing actionable insights highlighting high-performing customer segments, leading to improved data-driven decision efficiency for target audience strategies.
