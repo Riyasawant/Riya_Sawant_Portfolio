@@ -88,6 +88,14 @@ Optimized data modeling processes, reducing query processing time and providing 
 
 [Code](https://github.com/Riyasawant/credit-card-and-transaction-report)
 
+### Sentiment Prediction from Review Comments (SAS)
+Performed analysis on review titles and comments to identify patterns of malicious review activities, as well as positive and negative feedback trends, providing actionable insights for sentiment analysis.
+Initiated sentiment prediction by applying text mining techniques and classification modeling, achieving 88% classification accuracy in predicting negative/positive sentiments using a Neural Network Model in SAS.
+
+### Real Time Weather
+Designed a real-time weather data processing pipeline by ingesting simulated JSON weather data into AWS S3 and automating transformations using AWS Lambda, reducing manual processing time by 40%.
+Stored processed data in AWS DynamoDB for efficient querying and created an interactive dashboard in Amazon QuickSight, achieving 100% uptime for real-time visualization of temperature trends and extreme weather events. Monitored pipeline performance with AWS CloudWatch, ensuring error-free operation and improving data processing reliability by 30%.
+
 ## Publications
 1. Psychological Analysis Using Social Media Data, International Journal for Research in Applied Science & Engineering Technology
 (IJRASET).
