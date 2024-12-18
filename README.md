@@ -1,9 +1,23 @@
 # Data Analyst
 I am driven by a deep passion for uncovering insights from complex data sets to inform strategic decision-making. My enthusiasm for data empowers me to identify trends, solve problems, and communicate findings effectively to stakeholders. I thrive on transforming raw data into actionable insights that drive business success.
 
-#### Technical Skills: Python, SQL, TSQL, Tableau, Databricks, Power BI, Snowflake, Microsoft Excel, Apache Spark, Hadoop, Microsoft Access, Alteryx, PySpark, Redshift, Scala, Google Analytics,
-#### Certification: Microsoft Office Specialist - Excel Associate (Office 2019), Salesforce Tableau, Amazon Cloud Practitioner, Databricks Data Engineer Associate, Snowflake Hands-on Essential, Microsoft Java Developer
+## **Technical Skills**
+- **Programming & Querying**: Python, SQL, T-SQL, Scala, R, PySpark  
+- **Data Analysis & Visualization**: Power BI (DAX, Power Query), Tableau, Google Analytics, Microsoft Excel  
+- **Data Platforms & ETL**: Snowflake, Databricks, Redshift, Apache Spark, Alteryx, Hadoop, Microsoft Access, Azure SQL  
+- **Cloud & Tools**: Amazon Web Services (AWS), Azure, Power Apps  
+- **Machine Learning**: Predictive Modeling, NLP, Feature Engineering, SMOTE, PCA  
+- **Collaboration Tools**: Microsoft Project, JIRA, Confluence
 
+- ## **Certifications**
+- **Microsoft Office Specialist** – Excel Associate (Office 2019)  
+- **Salesforce Tableau Certified**  
+- **AWS Certified Cloud Practitioner**  
+- **Databricks Data Engineer Associate**  
+- **Snowflake Hands-on Essentials**  
+- **Microsoft Java Developer**  
+
+---
 ## Education
 - Master of Science, Information System | Syracuse University (_May 2024_)								       		
 - Bachelor of Engineering, Information Technology	| University of Mumbai (_June 2022_)
