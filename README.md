@@ -77,6 +77,8 @@ Integrated the solution with Power BI dashboards, visualizing key metrics such a
 
 ### Customer Retention using Machine Learning in Python
 Developed a predictive model for donor churn using Random Forest, XGBoost, and Logistic Regression, achieving 92% accuracy with SMOTE and PCA. Preprocessed 10,000+ records and conducted EDA to identify donation patterns. Created an interactive Tableau dashboard to visualize churn rates, retention trends, and engagement metrics for actionable insights.
+
+
 [Code](https://github.com/Riyasawant/Customer-Retention)
 
 ### Credit Card Transaction Analysis and Customer Insights Dashboard using Power BI
